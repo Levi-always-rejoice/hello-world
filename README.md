@@ -9,3 +9,4 @@ step2. create a branch
        2. Click the drop down at the top of the file list that says branch: master.
        3. Type a branch name, "readme-edits", into the new branch text box.
        4. Select the blue "Create branch" box or hit “Enter” on your keyboard.
+step3. Make and commit changes.
